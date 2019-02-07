@@ -31,7 +31,7 @@ weight = 7
 [[feature]]
   #icon = "camera-retro"
   #icon_pack = "fas"
-  name = " DSP, Code Composer Studio (CCS), Vector CANape, P-CAN, OPAL-RT, PLECS"
+  name = " DSP, Vector CANape, P-CAN, OPAL-RT, PLECS"
   #description = "10%"
 
 +++
