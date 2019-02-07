@@ -38,6 +38,22 @@ date_format = "January 2006"
   * Model Training
   * R&D
   """
+  
+  [[experience]]
+  title = "Postdoctoral Researcher"
+  company = "GEIRI North America"
+  company_url = "https://geirina.net/"
+  location = "California"
+  date_start = "2017-01-10"
+  date_end = "2017-12-31"
+  description = """Dr. Yuan started to work as power system engineer at GEIRI North America since January of 2018. In his position, he is responsible for the development of graph based power system state estimation, power flow analysis and "N-1" contingency analysis.
+  Responsibilities include:
+  
+  * System Graph Modeling
+  * Algorithm Implementation
+  * Graph Computing
+  * R&D
+  """
 
 
 +++
