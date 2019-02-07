@@ -19,19 +19,18 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Power System Engineer"
-  company = "GEIRI North America"
-  company_url = "https://geirina.net/"
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
   location = "California"
-  date_start = "2018-01-01"
+  date_start = "2017-01-01"
   date_end = ""
-  description = """Dr. Yuan started to work as power system engineer at GEIRI North America since January of 2018. In his position, he is responsible for power system energy management system (EMS) development, online security analysis and machine learning based advanced power system applications.
+  description = """
   Responsibilities include:
   
-  * System Graph Modeling
-  * Algorithm Design
-  * Model Training
-  * R&D
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 
