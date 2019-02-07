@@ -33,7 +33,7 @@ date_format = "January 2006"
   description = """Dr. Yuan started to work as power system engineer at GEIRI North America since January of 2018. In his position, he is responsible for power system energy management system (EMS) development, online security analysis and machine learning based advanced power system applications.
   Responsibilities include:
   
-  * System Graph Modeling
+  * System Graph Modelling
   * Algorithm Design
   * Model Training
   * R&D - Power Transmission System 
@@ -49,7 +49,7 @@ date_format = "January 2006"
   description = """Dr. Yuan started to work as power system engineer at GEIRI North America since January of 2018. In his position, he is responsible for the development of graph based power system state estimation, power flow analysis and "N-1" contingency analysis.
   Responsibilities include:
   
-  * System Graph Modeling
+  * System Graph Modelling
   * Algorithm Implementation
   * Graph Computing
   * R&D
@@ -63,16 +63,66 @@ date_format = "January 2006"
   location = "Peoria, Illinois"
   date_start = "2016-05-16"
   date_end = "2017-08-25"
-  description = """Dr. Yuan was responsible for modeling a multi-phase motor generator unit (MGU), developing its control strategy and conducting lab testing to verify
-the system.
+  description = """Dr. Yuan was mainly responsible for developing, testing and debugging the embedded control system. He developed a system-level supervisory control scheme and verified its functionality and compatibility with ECM. Besides, he set up the electronic control module (ECM) wiring and CAN communication systems. 
+
+  Responsibilities include:
+  
+  * Embedded Control System
+  * Control Scheme Design
+  * Field Testing and CAN Communication System
+  """
+  
+  [[experience]]
+  title = "Associate Engineer"
+  company = "Caterpillar Inc."
+  company_url = ""
+  location = "Peoria, Illinois"
+  date_start = "2015-06-08"
+  date_end = "2015-08-14"
+  description = """Dr. Yuan was responsible for modelling a multi-phase motor generator unit (MGU), developing its control strategy and conducting lab testing to verify the performance.
   Responsibilities include:
   
   * Motor Design
   * Sensitivity Analysis
   * Real-Time Simulation
   * Control System Design and Testing
-  * R&D
   """
+  
+  
+  [[experience]]
+  title = "Power System Engineering Intern"
+  company = "Emerson Network Power (Vertive Co.)"
+  company_url = ""
+  location = "Delaware, Ohio"
+  date_start = "2015-06-08"
+  date_end = "2015-08-14"
+  description = """Dr. Yuan conducted software-in-the-loop (SIL) testing for uninterruptible power supply (UPS) control scheme development on rectifier side, and developed the SIL model into a processor-in-the-loop (PIL) system for real-time simulation, with DSP,
+PLECS and serial communication interface (SCI). Besides, he was responsible for developing a fuse detection algorithm in SIL and verifying it on the UPS test-bed.
 
+  Responsibilities include:
+  
+  * Control System Design and Verification
+  * Software-in-the-loop and Processor-in-the-loop Simulation
+  * Fuse Detection Algorithm Design
+  """
+  
+  [[experience]]
+  title = "Graduate Research Associate"
+  company = "The Ohio State University"
+  company_url = "https://ece.osu.edu/"
+  location = "Columbus, Ohio"
+  date_start = "2012-08-22"
+  date_end = "2016-12-16"
+  description = """During his Ph.D. study, Dr. Yuan's research work was focusing on power distribution systems/microgrids modeling and control systems development, resilience oriented power distribution systems planning, and power distribution systems/microgrids protection improvement.
+
+  Responsibilities include:
+  
+  * Planning and Optimization
+  * Frequency Response
+  * Renewable Energy Integration
+  * Protection and Restoration
+  * Control System Design
+  """
+  
 
 +++
