@@ -1,10 +1,10 @@
 +++
-title = "主动配电网规划与运行test，Planning and Operation of Active Distribution Network test"
-date = 2018-09-01T00:00:00
+title = "Co-Optimization Scheme for Distributed Energy Resource Planning in Community Microgrids"
+date = 2017-10-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["刘广一"]
+authors = ["Chen Yuan, Mahesh Illindala, Amrit Khalsa"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["刘广一"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["5"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "中国电力出版社"
-#publication_short = "In *SITIS*"
+publication = "IEEE Transactions on Sustainable Energy"
+#publication_short = "In *IEEE Trans. Sustainable Enery*"
 
 # Abstract and optional shortened version.
-#abstract = "Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website."
+#abstract = "Microgrids with distributed energy resources are being favored in various communities to lower the dependence on utility-supplied energy and cut the CO2 emissions from coal-based power plants. This paper presents a co-optimization strategy for distributed energy resource planning to minimize total annualized cost at the maximal fuel savings. Furthermore, the proposed scheme aids the community microgrids in satisfying the requirements of U.S. Department of Energy (DOE) and state renewable energy mandates. The method of Lagrange multipliers is employed to maximize fuel savings by satisfying Karush-Kuhn-Tucker conditions. With the Fourier transform and particle swarm optimization, the right mix of distributed energy resources is determined to decrease the annualized cost. A case study to test the proposed scheme for a community microgrid is presented. To validate its effectiveness, an economic justification of the solution and its comparison with HOMER Pro are also illustrated."
 #abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -49,7 +49,7 @@ slides = "example-slides"
 tags = []
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_pdf = "https://arxiv.org/ftp/arxiv/papers/1708/1708.01014.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -57,14 +57,14 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://ieeexplore.ieee.org/abstract/document/7875469"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1109/TSTE.2017.2681111"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
