@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "IEEE Transactions on Power Delivery"
-publication_short = "In *IEEE Trans. Power Del.*"
+#publication_short = "In *IEEE Trans. Power Del.*"
 
 # Abstract and optional shortened version.
 abstract = "Village or community microgrids are being encouraged to improve resiliency against unexpected events. They also improve energy efficiency and reliability of power delivery to critical loads. However, many protection challenges exist in making the shift away from conventional distribution systems. In this paper, a multilayered protection strategy is presented for developing a community microgrid in a village within the 69-bus distribution system. The proposed strategy is verified by simulation studies in MATLAB/Simulink against various fault conditions. A comparison between the proposed strategy and existing distribution protection schemes is also provided."
