@@ -22,11 +22,11 @@ publication = "IEEE Transactions on Power Delivery"
 #publication_short = "In *IEEE Trans. Power Del. *"
 
 # Abstract and optional shortened version.
-#abstract = "Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website."
-#abstract_short = ""
+abstract = "This paper presents a novel modified Viterbi algorithm to identify the optimal distribution system restoration plan for improving the grid resiliency. In the proposed algorithm, the switching operations performed for system restoration are the states with the minimum bus voltage being seen as the cost metric for each state and the extent of load recovery as the observed event. When full load recovery is spotted, the dynamic programming algorithm stops, thereby giving the least number of switching pairs necessary for system restoration. Moreover, an improved flexible switching pair operation is employed to maintain the radial nature of distribution system. Several case studies are presented for verifying the performance of the proposed strategy. Multi-fault conditions are considered in testing the system restoration scheme on 33-bus and 69-bus distribution systems. Furthermore, the effects of integrating distributed energy resources and microgrid systems are analyzed."
+abstract_short = "This paper presents a novel modified Viterbi algorithm to identify the optimal distribution system restoration plan for improving the grid resiliency.Multi-fault conditions are considered in testing the system restoration scheme on 33-bus and 69-bus distribution systems. Furthermore, the effects of integrating distributed energy resources and microgrid systems are analyzed."
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1109/TPWRD.2016.2613935"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
