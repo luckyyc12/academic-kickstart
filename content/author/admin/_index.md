@@ -23,7 +23,8 @@ interests = [
   "Energy Management System",
   "Renewable Energy Integration",
   "Optimization",
-  "Control Systems"
+  "Control Systems",
+  "Machine Learning"
 ]
 
 # List qualifications (such as academic degrees)
@@ -53,17 +54,25 @@ interests = [
   icon = "google-scholar"
   icon_pack = "ai"
   link = "https://scholar.google.com/citations?user=U2HoavAAAAAJ&hl=en"
+  
+[[social]]
+  icon = "linkedin"
+  icon_pack = "ai"
+  link = "https://www.linkedin.com/in/chen-yuan-a8944568/"
+  
+ [[social]]
+  icon = "research-gate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Chen_Yuan8"
 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+ [[social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "files/cv.pdf"
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Zhe Yu joined Global Energy Interconnection Research Institute North America (GEIRI North America) in Jan. 2017. His current research interests focus on energy management system (EMS), renewable energy integration, smart grid, control systems, machine learning and optimization.
