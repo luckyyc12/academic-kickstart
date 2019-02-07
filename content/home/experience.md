@@ -34,21 +34,5 @@ date_format = "January 2006"
   * R&D
   """
 
-[[experience]]
-  title = "Postdoctoral Researcher"
-  company = "GEIRI North America"
-  company_url = "https://geirina.net/"
-  location = "San Jose, California"
-  date_start = "2017-01-10"
-  date_end = "2017-12-31"
-  description = """Dr. Yuan started to work as postdoctoral researcher at GEIRI North America in 2017. In his position, he is responsible for the development of graph computing based state estimation, power flow analysis and contingency analysis.
-  
-  Responsibilities include:
-  
-  * System Graph Modeling
-  * Algorithm Design
-  * Graph Computing
-  * R&D
-  """
 
 +++
