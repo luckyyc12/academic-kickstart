@@ -1,5 +1,5 @@
 +++
-title = "Protection strategies for medium-voltage direct-current microgrid at a remote area mine site"
+title = "Protection Strategies for Medium-Voltage Direct-Current Microgrid at a Remote Area Mine Site"
 date = 2015-07-01T00:00:00
 draft = false
 
