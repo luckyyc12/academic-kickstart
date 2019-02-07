@@ -18,28 +18,26 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
+  title = "Power System Engineer"
+  company = "GEIRI North America"
+  company_url = "https://geirina.net/"
   location = "California"
-  date_start = "2017-01-01"
+  date_start = "2018-01-01"
   date_end = ""
-  description = """
+  description = """Dr. Yuan started to work as power system engineer at GEIRI North America since January of 2018. In his position, he is responsible for power system energy management system (EMS) development, online security analysis and machine learning based advanced power system applications.
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * System Graph Modeling
+  * Algorithm Design
+  * Model Training
+  * R&D
   """
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
