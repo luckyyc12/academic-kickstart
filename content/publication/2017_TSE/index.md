@@ -23,7 +23,7 @@ publication = "IEEE Transactions on Sustainable Energy"
 
 # Abstract and optional shortened version.
 abstract = "Microgrids with distributed energy resources are being favored in various communities to lower the dependence on utility-supplied energy and cut the CO2 emissions from coal-based power plants. This paper presents a co-optimization strategy for distributed energy resource planning to minimize total annualized cost at the maximal fuel savings. Furthermore, the proposed scheme aids the community microgrids in satisfying the requirements of U.S. Department of Energy (DOE) and state renewable energy mandates. The method of Lagrange multipliers is employed to maximize fuel savings by satisfying Karush-Kuhn-Tucker conditions. With the Fourier transform and particle swarm optimization, the right mix of distributed energy resources is determined to decrease the annualized cost. A case study to test the proposed scheme for a community microgrid is presented. To validate its effectiveness, an economic justification of the solution and its comparison with HOMER Pro are also illustrated."
-#abstract_short = ""
+abstract_short = "This paper presents a co-optimization strategy for distributed energy resource planning to minimize total annualized cost at the maximal fuel savings."
 
 # Is this a featured publication? (true/false)
 featured = true
