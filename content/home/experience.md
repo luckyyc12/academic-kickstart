@@ -27,7 +27,7 @@ date_format = "January 2006"
   title = "Power System Engineer"
   company = "GEIRI North America"
   company_url = "https://geirina.net/"
-  location = "California"
+  location = "San Jose, California"
   date_start = "2018-01-01"
   date_end = ""
   description = """Dr. Yuan started to work as power system engineer at GEIRI North America since January of 2018. In his position, he is responsible for power system energy management system (EMS) development, online security analysis and machine learning based advanced power system applications.
@@ -36,14 +36,14 @@ date_format = "January 2006"
   * System Graph Modeling
   * Algorithm Design
   * Model Training
-  * R&D
+  * R&D - Power Transmission System 
   """
   
   [[experience]]
   title = "Postdoctoral Researcher"
   company = "GEIRI North America"
   company_url = "https://geirina.net/"
-  location = "California"
+  location = "San Jose, California"
   date_start = "2017-01-10"
   date_end = "2017-12-31"
   description = """Dr. Yuan started to work as power system engineer at GEIRI North America since January of 2018. In his position, he is responsible for the development of graph based power system state estimation, power flow analysis and "N-1" contingency analysis.
