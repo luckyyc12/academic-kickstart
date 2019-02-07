@@ -26,7 +26,7 @@ publication = "IEEE Transactions on Industry Applications"
 #abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1109/TIA.2015.2391441"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
