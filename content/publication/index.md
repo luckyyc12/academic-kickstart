@@ -1,5 +1,4 @@
 +++
-
 title = "Co-Optimization Scheme for Distributed Energy Resource Planning in Community Microgrids"
 date = 2017-10-01T00:00:00
 draft = false
