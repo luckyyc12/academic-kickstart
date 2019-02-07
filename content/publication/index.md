@@ -81,9 +81,6 @@ math = true
 +++
 
 
-
-+++
-
 title = "Modified Viterbi algorithm based distribution system restoration strategy for grid resiliency"
 date = 2017-02-01T00:00:00
 draft = false
@@ -165,7 +162,6 @@ math = true
   focal_point = ""
 +++
 
-+++
 
 title = "Protection strategies for medium-voltage direct-current microgrid at a remote area mine site"
 date = 2015-07-01T00:00:00
