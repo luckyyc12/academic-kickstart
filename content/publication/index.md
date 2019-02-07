@@ -78,7 +78,7 @@ math = true
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
-
++++
 
 title = "Modified Viterbi algorithm based distribution system restoration strategy for grid resiliency"
 date = 2017-02-01T00:00:00
