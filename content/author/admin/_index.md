@@ -57,11 +57,11 @@ interests = [
   
 [[social]]
   icon = "linkedin"
-  icon_pack = "ai"
+  icon_pack = "fab"
   link = "https://www.linkedin.com/in/chen-yuan-a8944568/"
   
  [[social]]
-  icon = "research-gate"
+  icon = "researchgate"
   icon_pack = "ai"
   link = "https://www.researchgate.net/profile/Chen_Yuan8"
 
