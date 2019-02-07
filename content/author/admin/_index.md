@@ -75,4 +75,4 @@ interests = [
 
 +++
 
-Zhe Yu joined Global Energy Interconnection Research Institute North America (GEIRI North America) in Jan. 2017. His current research interests focus on energy management system (EMS), renewable energy integration, smart grid, control systems, machine learning and optimization.
+Chen Yuan joined Global Energy Interconnection Research Institute North America (GEIRI North America) in Jan. 2017. His current research interests focus on energy management system (EMS), renewable energy integration, smart grid, control systems, machine learning and optimization.
