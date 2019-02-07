@@ -54,6 +54,25 @@ date_format = "January 2006"
   * Graph Computing
   * R&D
   """
+  
+  
+  [[experience]]
+  title = "Associate Engineer"
+  company = "Caterpillar Inc."
+  company_url = ""
+  location = "Peoria, Illinois"
+  date_start = "2016-05-16"
+  date_end = "2017-08-25"
+  description = """Dr. Yuan was responsible for modeling a multi-phase motor generator unit (MGU), developing its control strategy and conducting lab testing to verify
+the system.
+  Responsibilities include:
+  
+  * Motor Design
+  * Sensitivity Analysis
+  * Real-Time Simulation
+  * Control System Design and Testing
+  * R&D
+  """
 
 
 +++
