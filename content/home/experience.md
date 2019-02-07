@@ -62,7 +62,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Peoria, Illinois"
   date_start = "2016-05-16"
-  date_end = "2017-08-25"
+  date_end = "2016-08-25"
   description = """Dr. Yuan was mainly responsible for developing, testing and debugging the embedded control system. He developed a system-level supervisory control scheme and verified its functionality and compatibility with ECM. Besides, he set up the electronic control module (ECM) wiring and CAN communication systems. 
 
   Responsibilities include:
@@ -94,8 +94,8 @@ date_format = "January 2006"
   company = "Emerson Network Power (Vertive Co.)"
   company_url = ""
   location = "Delaware, Ohio"
-  date_start = "2015-06-08"
-  date_end = "2015-08-14"
+  date_start = "2014-05-18"
+  date_end = "2014-08-14"
   description = """Dr. Yuan conducted software-in-the-loop (SIL) testing for uninterruptible power supply (UPS) control scheme development on rectifier side, and developed the SIL model into a processor-in-the-loop (PIL) system for real-time simulation, with DSP,
 PLECS and serial communication interface (SCI). Besides, he was responsible for developing a fuse detection algorithm in SIL and verifying it on the UPS test-bed.
 
