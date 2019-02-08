@@ -1,7 +1,7 @@
 +++
 # Projects widget.
 widget = "projects"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
 title = "Projects"
 subtitle = ""
@@ -36,17 +36,17 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-# [[filter]]
-#   name = "All"
-#   tag = "*"
-#
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = "Demo"
+ [[filter]]
+   name = "Fast Power Flow Algorithm Based on Graph Computing"
+   tag = "Graph Computing based Power Flow"
+
+ [[filter]]
+   name = "Faster-than Real Time State Estimation and Parallel Contingency Analysis"
+   tag = "Graph Computing based State Estimation and Contingency Analysis"
+
+ [[filter]]
+   name = "Intelligent System Dispatch"
+   tag = "EMS"
 
 +++
 
