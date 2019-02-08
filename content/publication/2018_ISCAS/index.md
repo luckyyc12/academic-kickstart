@@ -22,8 +22,8 @@ publication = "2018 IEEE International Symposium on Circuits and Systems"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
-#abstract = "With rapid development and high penetration of renewable energy, distributed generation, and energy storage system, as well as the emerging of electric vehicles and responsive loads, numerous uncertainties are brought into modern power systems. The power system robust operation become much more complicated than before. So, there is a urgent demand to develop a "faster than real time" power system Energy Management System (EMS) analysis tool using advanced data management and analysis technologies. In this paper, the power system EMS real time analysis framework based on the evolving graph is proposed. The power system is modeled as an evolving graph and its network analysis is implemented on a graph database platform. Testing results with a provincial power system demonstrate that the proposed analysis framework can significantly improve the performance and reach the goal of real-time power system analysis."
-#abstract_short = "In this paper, the power system EMS real time analysis framework based on the evolving graph is proposed."
+abstract = "With rapid development and high penetration of renewable energy, distributed generation, and energy storage system, as well as the emerging of electric vehicles and responsive loads, numerous uncertainties are brought into modern power systems. The power system robust operation become much more complicated than before. So, there is a urgent demand to develop a "faster than real time" power system Energy Management System (EMS) analysis tool using advanced data management and analysis technologies. In this paper, the power system EMS real time analysis framework based on the evolving graph is proposed. The power system is modeled as an evolving graph and its network analysis is implemented on a graph database platform. Testing results with a provincial power system demonstrate that the proposed analysis framework can significantly improve the performance and reach the goal of real-time power system analysis."
+abstract_short = "In this paper, the power system EMS real time analysis framework based on the evolving graph is proposed."
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -49,7 +49,7 @@ slides = "example-slides"
 tags = []
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_pdf = "https://ieeexplore.ieee.org/document/8351811"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1109/ISCAS.2018.8351811"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
