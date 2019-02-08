@@ -6,11 +6,13 @@ widget = "Granted Patent"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Granted Patent"
+title = "Patent"
 subtitle = ""
 
 # Order that this section will appear in.
 weight = 60
+
+[1] Chen YuanKrishnakumar Dharapuram RamamoorthyOsama Mohammad Alkhouli, "Multiphase motor generator system and control method thereof", US9571024B1, 2017
 
 +++
 
