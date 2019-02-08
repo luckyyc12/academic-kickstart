@@ -16,7 +16,7 @@ weight = 10
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view = 4
+view = 1
 
 # Filter by publication type.
 # -1: Any
