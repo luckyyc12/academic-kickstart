@@ -37,16 +37,16 @@ filter_default = 0
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 [[filter]]
-  name = "All"
-  tag = "*"
+  name = "Fast Power Flow Algorithm Based on Graph Computing"
+  tag = "Power Flow"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+  name = "Faster-than Real Time State Estimation and Parallel Contingency Analysis"
+  tag = "State Estimation"
 
 [[filter]]
-  name = "Other"
-  tag = "Demo"
+  name = "Evolving Graph based Intelligent Dispatch"
+  tag = "Artificial Intelligence"
 
 +++
 
