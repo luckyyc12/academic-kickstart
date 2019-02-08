@@ -22,7 +22,7 @@ publication = "2015 IEEE Industry Applications Society Annual Meeting"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
-#abstract = "New measures for increasing energy efficiency and reducing CO2 emissions are being introduced by several nations to tackle the growing concerns on climate change. This paper presents optimal distributed energy resource (DER) planning for establishing microgrids. Such microgrid systems are devised for industrial sites and campus communities in the United States after evaluating location specific DER options. These are designed to maximize fuel consumption savings, besides meeting the U.S. Department of Energy (DOE) requirements and state renewable energy mandates. A qualitative evaluation of various types of DERs is presented cogitating factors like cost, environment, fuel consumption, controllability, longevity and government policy. Furthermore, the method of Lagrange Multipliers is used to determine the optimal allocation of DERs for microgrids. Due consideration is given to various factors such as climatic conditions, prevailing energy resources, and environmental regulations. The planning strategy presented in this paper can be extended to other conditions with minimal adjustments."
+#abstract = ""
 abstract_short = "This paper presents optimal distributed energy resource (DER) planning for establishing microgrids."
 
 # Is this a featured publication? (true/false)
