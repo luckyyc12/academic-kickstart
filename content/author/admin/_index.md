@@ -20,11 +20,11 @@ email = "chen.yuan@geirina.net"
 
 # List (academic) interests or hobbies
 interests = [
-  "Energy Management System",
-  "Renewable Energy Integration",
   "Optimization",
   "Control Systems",
-  "Machine Learning"
+  "Machine Learning",
+  "Energy Management System",
+  "High Performance Computing"  
 ]
 
 # List qualifications (such as academic degrees)
