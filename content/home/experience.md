@@ -123,6 +123,5 @@ PLECS and serial communication interface (SCI). Besides, he was responsible for 
   * Protection and Restoration
   * Control System Design
   """
-  
-
+ 
 +++
