@@ -55,9 +55,9 @@ email = "chen.yuan@geirina.net"
 address = "250 W Tasman Drive, Suite 100, San Jose, California, 95134, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-#office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00<br>
-                  Otherwise email to book an appointment"""
+# office_hours = """Monday 10:00 to 13:00<br>
+                 # Wednesday 09:00 to 10:00<br>
+                 # Otherwise email to book an appointment"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
