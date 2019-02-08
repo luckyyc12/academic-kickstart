@@ -51,7 +51,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "chen.yuan@geirina.net"
-#phone = "888 888 88 88"
+phone = ""
 address = "250 W Tasman Drive, Suite 100, San Jose, California, 95134, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
