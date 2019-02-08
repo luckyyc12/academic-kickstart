@@ -22,7 +22,7 @@ publication = "IEEE Transactions on Industry Applications"
 #publication_short = "In *IEEE Trans. Ind. Appl. *"
 
 # Abstract and optional shortened version.
-#abstract = "This paper presents protection strategies for a medium-voltage dc (MVDC) microgrid at a remote area mine site. The microgrid is operated to provide high power quality and reliability to sensitive loads and to improve the energy efficiency of the mining equipment. In the MVDC microgrid, various local distributed energy resources have been used, including photovoltaic arrays, wind turbines, a fuel-cell stack, an energy storage system, and mobile diesel generators. For the protection of transmission lines, a communication-based differential protection scheme with solid-state electronic relays is employed to isolate the faulted part of the MVDC microgrid. This is further reinforced by dc overcurrent protection as a backup. Earlier research work had neglected the backup protection for dc systems. In addition, communication-based dc directional overcurrent protective relays are used for both source protection and load protection to support a bidirectional power flow. MATLAB/Simulink modeling and simulation results are presented and discussed to illustrate the proposed system's dependability and security."
+#abstract = ""
 abstract_short = "This paper presents protection strategies for a medium-voltage dc (MVDC) microgrid at a remote area mine site."
 
 # Is this a featured publication? (true/false)
