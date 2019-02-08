@@ -4,7 +4,7 @@
 widget = "publications"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Publications"
+title = "Recent Publications"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -32,6 +32,6 @@ view = 2
 publication_type = "-1"
 
 # Exclude publications that are shown in the Featured Publications widget?
-exclude_featured = true
+exclude_featured = false
 +++
 
