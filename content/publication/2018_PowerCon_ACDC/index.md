@@ -18,7 +18,7 @@ authors = ["Wei Feng, Chen Yuan, Renchang Dai, Guangyi Liu, Fangxing Li"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "中国电力出版社"
+publication = "2018 International Conference on Power System Technology"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
