@@ -23,7 +23,7 @@ publication = "Energy Procedia"
 
 # Abstract and optional shortened version.
 #abstract = "Community microgrids are developed within existing power systems by integrating local distributed energy resources (DERs). So power distribution systems can be seamlessly partitioned into community microgrids and end-users could be largely supported when an extreme event happens. However, because of the low inertia characteristics of DERs, their power capacity should be well designed to cover unexpected events and guarantee system reliability. This paper presents a quantitative and qualitative combined methodology for DERs selection, and an economic approach to meet the system reliability requirements. Discrete time Fourier transform (DTFT) and particle swarm optimization (PSO) are employed to obtain the optimal solution, with consideration of load demand and renewable generation uncertainties. In addition, a sensitivity analysis is conducted to show how DERs’ capacity design is impacted by counted portion of the forecasted renewable generation."
-#abstract_short = "This paper presents a quantitative and qualitative combined methodology for DERs selection, and an economic approach to meet the system reliability requirements."
+abstract_short = "This paper presents a quantitative and qualitative combined methodology for DERs selection, and an economic approach to meet the system reliability requirements."
 
 # Is this a featured publication? (true/false)
 featured = false
