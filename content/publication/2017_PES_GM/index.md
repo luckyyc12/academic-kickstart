@@ -26,7 +26,7 @@ publication = "2017 IEEE Power & Energy Society General Meeting"
 abstract_short = "This paper presents a comprehensive methodology for DERs selection in community microgrids, and an economic approach to meet the system reliability requirements."
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
