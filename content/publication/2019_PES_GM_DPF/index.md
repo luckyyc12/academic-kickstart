@@ -18,7 +18,7 @@ authors = ["Wei Feng", "Jingjin Wu", "Chen Yuan", "Guangyi Liu", "Renchang Dai",
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "2019 Power & Energy Society General Meeting"
+publication = "2019 IEEE Power & Energy Society General Meeting"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
