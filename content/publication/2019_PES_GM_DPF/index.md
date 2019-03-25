@@ -49,7 +49,7 @@ slides = "example-slides"
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/8601938"
+url_pdf = "https://arxiv.org/ftp/arxiv/papers/1902/1902.06893.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+# doi = ""
 
 # Does this page contain LaTeX math? (true/false)
 math = true
