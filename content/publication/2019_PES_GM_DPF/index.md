@@ -23,7 +23,7 @@ publication = "2019 IEEE Power & Energy Society General Meeting"
 
 # Abstract and optional shortened version.
 abstract = "Power flow analysis plays a fundamental and critical role in the energy management system (EMS). It is required to well accommodate large and complex power system. To achieve a high performance and accurate power flow analysis, a graph computing based distributed power flow analysis approach is proposed in this paper. Firstly, a power system network is divided into multiple areas. Slack buses are selected for each area and, at each SCADA sampling period, the inter-area transmission line power flows are equivalently allocated as extra load injections to corresponding buses. Then, the system network is converted into multiple independent areas. In this way, the power flow analysis could be conducted in parallel for each area and the solved system states could be guaranteed without compromise of accuracy. Besides, for each area, graph computing based fast decoupled power flow (FDPF) is employed to quickly analyze system states. IEEE 118-bus system and MP 10790-bus system are employed to verify the results accuracy and present the promising computation performance of the proposed approach."
-#abstract_short = "This paper employs vertex contraction to eliminate zero-impedance branch and combines two iterative methods to improve the convergence"
+abstract_short = "To achieve a high performance and accurate power flow analysis, a graph computing based distributed power flow analysis approach is proposed in this paper."
 
 # Is this a featured publication? (true/false)
 featured = false
