@@ -4,7 +4,7 @@ date = 2019-08-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Chen Yuan", "Yi Lu", "Wei Feng", "Guangyi Liu", "Renchang Dai", "Yachen Tang", "Zhiwei Wang"]
+authors = ["Chen Yuan, Yi Lu, Wei Feng, Guangyi Liu, Renchang Dai, Yachen Tang, Zhiwei Wang"]
 
 # Publication type.
 # Legend:
@@ -22,8 +22,7 @@ publication = "2019 IEEE Power & Energy Society General Meeting"
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
-abstract = "This paper proposes a graph computation based sequential power flow calculation method for Line Commutated Converter (LCC) based large-scale AC/DC systems to achieve a high computing performance. Based on the graph theory, the complex AC/DC system is first converted to a graph model and stored in a graph database. Then, the hybrid system is divided into several isolated areas with graph partition algorithm by decoupling AC and DC networks. Thus, the power flow analysis can be executed in parallel for each independent area with the new selected slack buses. Furthermore, for each area, the node-based parallel computing (NPC) and hierarchical parallel computing (HPC) used in graph computation are employed to speed up fast decoupled power flow (FDPF). Comprehensive case studies on the
-IEEE 300-bus, polished South Carolina 12,000-bus system and a China 11,119-bus system are performed to demonstrate the accuracy and efficiency of the proposed method."
+abstract = "Power flow analysis plays a fundamental and critical role in the energy management system (EMS). It is required to well accommodate large and complex power system. To achieve a high performance and accurate power flow analysis, a graph computing based distributed power flow analysis approach is proposed in this paper. Firstly, a power system network is divided into multiple areas. Slack buses are selected for each area and, at each SCADA sampling period, the inter-area transmission line power flows are equivalently allocated as extra load injections to corresponding buses. Then, the system network is converted into multiple independent areas. In this way, the power flow analysis could be conducted in parallel for each area and the solved system states could be guaranteed without compromise of accuracy. Besides, for each area, graph computing based fast decoupled power flow (FDPF) is employed to quickly analyze system states. IEEE 118-bus system and MP 10790-bus system are employed to verify the results accuracy and present the promising computation performance of the proposed approach."
 #abstract_short = "This paper employs vertex contraction to eliminate zero-impedance branch and combines two iterative methods to improve the convergence"
 
 # Is this a featured publication? (true/false)
@@ -65,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/POWERCON.2018.8601938"
+doi = ""
 
 # Does this page contain LaTeX math? (true/false)
 math = true
