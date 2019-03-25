@@ -26,7 +26,7 @@ abstract = "With the increased complexity of power systems due to the integratio
 abstract_short = "In this paper, a graph based power system modeling is firstly explored and a graph computing based state estimation is proposed to speed up its performance."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
