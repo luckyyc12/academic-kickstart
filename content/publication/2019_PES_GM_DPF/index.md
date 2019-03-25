@@ -1,10 +1,10 @@
 +++
-title = "Power Flow Analysis Using Graph based Combination of Iterative Methods and Vertex Contraction Approach"
+title = "Graph Computing based Distributed Fast Decoupled Power Flow Analysis"
 date = 2019-08-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Wei Feng", "Jingjin Wu", "Chen Yuan", "Guangyi Liu", "Renchang Dai", "Qingxin Shi", "Fangxing Li"]
+authors = ["Chen Yuan", "Yi Lu", "Wei Feng", "Guangyi Liu", "Renchang Dai", "Yachen Tang", "Zhiwei Wang"]
 
 # Publication type.
 # Legend:
